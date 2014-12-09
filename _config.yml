@@ -10,5 +10,8 @@ url: "http://shuyun-dev.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
+safe: true
+lsi: false
+
 # Build settings
 markdown: kramdown
